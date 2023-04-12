@@ -3,7 +3,7 @@ Borm? What's that, like a worm, lol?
 
 Did you tire of gray interfaces or useless themes in Rider? Ah, you're at the right address.
 
-![Gif Preview of Borm or just worm?](https://raw.githubusercontent.com/sunnamed434/Borm/master/Resources/preview.gif)
+![Gif Preview of Borm or just worm?](https://raw.githubusercontent.com/sunnamed434/Borm/master/resources/gifs/preview.gif)
 
 ## Import
 Just a few clicks to do, and you're done.
@@ -16,4 +16,4 @@ Let's start from what, from the first click, Aye!
 Isn't it too hard tho?
 
 Ah, really? Okay...
-![How to import Borm in Rider gif](https://raw.githubusercontent.com/sunnamed434/Borm/master/Resources/import.gif)
+![How to import Borm in Rider gif](https://raw.githubusercontent.com/sunnamed434/Borm/master/resources/gifs/import.gif)
